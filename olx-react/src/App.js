@@ -1,13 +1,9 @@
-import React from 'react';
+import React from "react";
 
-import './App.scss';
+import "./App.scss";
 
 function App() {
-  return (
-    <div className="App">
-      ss
-    </div>
-  );
+  return <div className="App">this is my first pull request</div>;
 }
 
 export default App;
